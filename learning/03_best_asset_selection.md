@@ -57,7 +57,7 @@ Cette méthode permet de comprendre le fonctionnement interne d'une recherche du
 
 ---
 
-## Code Python
+## Code Python -> correspondant à l'exercise 21
 
 ```python
 portfolio = {
@@ -133,7 +133,7 @@ Cette méthode est plus robuste car elle s'adapte directement aux données fourn
 
 ---
 
-# Version améliorée avec Python
+# Version améliorée avec Python -> correspondant à l'exercise 21 bis
 
 Python possède également des fonctions intégrées permettant d'effectuer cette recherche plus simplement.
 

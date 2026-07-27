@@ -97,7 +97,7 @@ qui calcule l'écart-type d'une série de données.
 
 ---
 
-# Code final
+# Code final -> correspondant à l'exercise 22 
 
 ```python
 import statistics
