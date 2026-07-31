@@ -1,4 +1,4 @@
-# 📈 Comprendre la volatilité
+# 📈 Comprendre l'amplitude de rendements (range)
 
 ## 🎯 Pourquoi apprendre ça ?
 
@@ -27,8 +27,6 @@ Prenons deux actifs :
 Les deux peuvent afficher une performance moyenne similaire.
 
 Pourtant, l'actif **B** est beaucoup plus risqué car ses variations sont beaucoup plus importantes.
-
-La volatilité permet justement de mesurer l'ampleur de ces variations.
 
 Dans le futur **Trading Risk Dashboard**, cet indicateur sera affiché aux côtés du rendement, du drawdown et d'autres mesures de risque.
 
